@@ -14,7 +14,7 @@ async function login() {
      
       // You can redirect to another page or perform other actions after successful login
      // window.location.href="./reservation/index.html"; // Replace with the actual path of your profile
-     const url="../log/index.html"
+     const url="./log/index.html"
      window.open(url);
     
     } else { 
