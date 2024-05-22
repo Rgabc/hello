@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container img{
+    width:40rem;
+    height:10rem
+}
+.container{
+    width:20rem;
+    border: solid 2px black;
+    transform: translate(10rem,0rem);
+}
+.container-lg{
+    border: solid 2px black;
+    height:8rem;
+    background-image: url("../gallery/rose.jpg");
+}
+.container-lg img{
+    height:8rem;
+    
+}
+.title{
+    border: solid 2px black;
+    width:20rem;
+    transform: translate(11rem,-5rem);
+    color: rgb(219, 233, 14);
+    background-color: black;
+}
