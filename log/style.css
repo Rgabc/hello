@@ -17,13 +17,20 @@
     background-image: url("../gallery/rose.jpg");
 }
 .container-lg img{
-    height:8rem;
+    height:6rem;
     
 }
 .title{
     border: solid 2px black;
-    width:20rem;
+    width:30rem;
     transform: translate(11rem,-5rem);
     color: rgb(219, 233, 14);
     background-color: black;
+}
+.container-md{
+    background-color: pink;
+}
+.container-md li{
+font-style: italic;
+color:red;
 }
