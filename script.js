@@ -9,7 +9,7 @@ async function login() {
     //     (row) => {return row.email === email && row.password === password});
     // console.log(user)
    
-    if (email === "afsheen") {
+    if (email === "esha") {
       alert(`welcome ${email} angel`);
      
       // You can redirect to another page or perform other actions after successful login
